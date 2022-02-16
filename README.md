@@ -18,4 +18,4 @@
 <a href="https://kaggle.com/shdian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shdian" height="30" width="40" /></a>
 </p>
 
-<img align="center" alt="Coding" width="450" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
+<img align="center" alt="Coding" height = "200" width = "1000" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
