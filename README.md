@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh-dian&label=Profile%20views&color=0e75b6&style=flat" alt="sh-dian" /> </p>
 <p align="left"> <a href="https://twitter.com/_shdian" target="blank"><img src="https://img.shields.io/twitter/follow/_shdian?logo=twitter&style=for-the-badge" alt="_shdian" /></a> </p>
 
-🌱 I’m currently learning **Java , C , HTML & CSS , JavaScript , Python , MySQL , Android Studio**
-📫 How to reach me **sh.alqudree@gmail.com** 
+- 🌱 I’m currently learning **Java , C , HTML & CSS , JavaScript , Python , MySQL , Android Studio**
+- 📫 How to reach me **sh.alqudree@gmail.com** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_shdian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shdian" height="30" width="40" /></a>
