@@ -4,6 +4,8 @@
 <h4 align="center">A passionate Software Engineering Student studies at Universiti Malaysia Pahang. I'm still finding more knowledge in programming and my course to enhance my skill up to the better :sparkles:	</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh-dian&label=Profile%20views&color=0e75b6&style=flat" alt="sh-dian" /> </p>
   
+<img align="right" alt="Coding" width = "470" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
+  
 <h3 align="left">I'm Learning (Language & Tools):</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
@@ -17,5 +19,3 @@
 <a href="https://linkedin.com/in/lydieanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lydieanna" height="30" width="40" /></a>
 <a href="https://kaggle.com/shdian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shdian" height="30" width="40" /></a>
 </p>
-
-<img align="center" alt="Coding" height = "200" width = "1000" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
