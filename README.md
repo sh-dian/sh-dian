@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sharifah Lydieanna</h1>
+<h1 align="center">Hi 👋, I'm Dian</h1>
 <image align= "center" height = "200" width = "1000" src= "https://github-readme-stats.vercel.app/api?username=sh-dian&show_icons=true&theme=tokyonight">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sh-dian&label=Profile%20views&color=0e75b6&style=flat" alt="sh-dian" /> </p>
 
   <img align="right" alt="Coding" width = "400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 <h3 align="left">Bio:</h3>
-  <p align="left"><b>Name:</b> Sharifah Lydieanna Syed Shamsuddin<br><b>Degree:</b> Bachelor in Computer Science (Software Engineering) with Honor<br><b>Interest:</b> App/Web Development , Programming , Software Engineering</p>  
+  <p align="left"><b>Name:</b><br>Sharifah Lydieanna Syed Shamsuddin<br><b>Degree:</b> <br>Bachelor in Computer Science (Software Engineering) with Honor<br><b>Interest:</b> <br>App/Web Development , Programming , Software Engineering</p>  
   
 <h3 align="left">Language:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
