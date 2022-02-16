@@ -2,7 +2,7 @@
 <h4 align="center">A passionate Software Engineering Student studies at Universiti Malaysia Pahang. I'm still finding more knowledge of my course as well as in programming to enhance my skill up to better</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh-dian&label=Profile%20views&color=0e75b6&style=flat" alt="sh-dian" /> </p>
-<img align="right" alt="Coding" width="450" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 
 ![GitHub metrics](https://metrics.lecoq.io/sh-dian)
 
