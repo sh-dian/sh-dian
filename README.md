@@ -1,4 +1,4 @@
-<image align= "center" src= "https://github-readme-stats.vercel.app/api?username=sh-dian&show_icons=true&theme=tokyonight">
+<image align= "center" height = "200" width = "1000" src= "https://github-readme-stats.vercel.app/api?username=sh-dian&show_icons=true&theme=tokyonight">
 
 <h1 align="center">Hi 👋, I'm Sharifah Lydieanna Syed Shamsuddin</h1>
 <h4 align="center">A passionate Software Engineering Student studies at Universiti Malaysia Pahang. I'm still finding more knowledge in programming and my course to enhance my skill up to the better :sparkles:	</h4>
