@@ -28,6 +28,6 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/sh-dian)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sh-dian&show_icons=true&locale=en" alt="sh-dian" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh-dian&show_icons=true&locale=en" alt="sh-dian" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-dian&show_icons=true&locale=en&layout=compact" alt="sh-dian" /></p>
 
