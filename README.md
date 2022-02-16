@@ -18,8 +18,9 @@
 <a href="https://kaggle.com/shdian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shdian" height="30" width="40" /></a>
 </p>
    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh-dian&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-dian&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
+</a>  
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sh-dian&show_owner=true&theme=tokyonight&repo=Hospital-Booking-Management-System" />
 </a>
