@@ -22,6 +22,6 @@
 <a href="https://kaggle.com/shdian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shdian" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/sh-dian/Hospital-Booking-Management-System">
+<a href="https://github.com/sh-dian/Hospital-Booking-Management-System/Readme.md">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sh-dian&show_owner=true&theme=tokyonight&repo=Hospital-Booking-Management-System" />
 </a>
