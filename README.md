@@ -1,6 +1,6 @@
+<h1 align="center">Hi 👋, I'm Sharifah Lydieanna Syed Shamsuddin</h1>
 <image align= "center" height = "200" width = "1000" src= "https://github-readme-stats.vercel.app/api?username=sh-dian&show_icons=true&theme=tokyonight">
 
-<h1 align="center">Hi 👋, I'm Sharifah Lydieanna Syed Shamsuddin</h1>
 <h4 align="center">A passionate Software Engineering Student studies at Universiti Malaysia Pahang. I'm still finding more knowledge in programming and my course to enhance my skill up to the better :sparkles:	</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh-dian&label=Profile%20views&color=0e75b6&style=flat" alt="sh-dian" /> </p>
   
