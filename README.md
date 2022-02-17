@@ -24,16 +24,3 @@
 <a href="https://linkedin.com/in/lydieanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lydieanna" height="30" width="40" /></a>
 <a href="https://kaggle.com/shdian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shdian" height="30" width="40" /></a>
 </p>
-
-<a href="https://github.com/sh-dian/Hospital-Booking-Management-System">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sh-dian&theme=tokyonight&repo=Hospital-Booking-Management-System" />
-</a>
-   <a href="https://github.com/sh-dian/Airplane-Booking-Management-System">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sh-dian&theme=tokyonight&repo=Airplane-Booking-Management-System" />
-</a>
-   <a href="https://github.com/sh-dian/To-Do-ListApplication">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sh-dian&theme=tokyonight&repo=To-Do-ListApplication" />
-</a>
-   <a href="https://github.com/sh-dian/GDSC_UM_Android_Dev_Challenge_Dian">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sh-dian&theme=tokyonight&repo=GDSC_UM_Android_Dev_Challenge_Dian" />
-</a>
