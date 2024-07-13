@@ -16,15 +16,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
 
-<p>IDEs/Editors</p>
-<p>
-  <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
-  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
-  <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">
-</p>
-
 <p>Frameworks, Platforms and Libraries</p>
 <p>
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
@@ -44,18 +35,14 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<p>Local Server</p>
-<p>
-  <img src="https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/Laragon-grey?style=for-the-badge&logo=laragon">
-</p>
-
-<p>☁️ Hosting/SaaS</p>
+<p>☁️ Hosting/SaaS/Local Server </p>
 <p>
   <img src="https://img.shields.io/badge/Plesk-grey?style=for-the-badge&logo=plesk">
-  <img src="https://img.shields.io/badge/Hostinger-purple?logo=hostinger">
+  <img src="https://img.shields.io/badge/Hostinger-purple?style=for-the-badge&logo=hostinger">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/Laragon-grey?style=for-the-badge&logo=laragon">
 </p>
 
 <p>Version Control</p>
@@ -64,6 +51,15 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+</p>
+
+<p>IDEs/Editors</p>
+<p>
+  <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
+  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
+  <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">
 </p>
 
 <p>Design Tools</p>
