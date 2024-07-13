@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=160&color=6:833ab4,100:fd1d1d&text=Sharifah%20Lydieanna&desc=Full-stack%20Web%20Developer&fontColor=ffffff&descAlign=27&descAlignY=15&fontAlignY=55)
 
 <h3 align="left">Hi 👋, I'm Dian</h3>
+<img align="right" alt="Coding" width = "400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
+<p align="left"><b>Name:</b><br>Sharifah Lydieanna Syed Shamsuddin<br><b>Degree:</b> <br>Bachelor in Computer Science (Software Engineering) with Honor<br><b>Interest:</b> <br>App/Web Development , Programming , Software Engineering</p>  
 
 ### 🛠 Tech Stack
 
