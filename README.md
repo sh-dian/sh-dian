@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:EEFF00,100:a82da8&text=Input%20text&section=header&textBg=false)
+![header]([https://capsule-render.vercel.app/api?type=venom&height=300&color=0:EEFF00,100:a82da8&text=Input%20text&section=header&textBg=false](https://capsule-render.vercel.app/api?type=venom&height=300&color=6:833ab4,100:fd1d1d&text=Sharifah%20Lydieanna&fontColor=ffffff))
 
 <h1 align="center">Hi 👋, I'm Dian</h1>
 <image align= "center" height = "200" width = "1000" src= "https://github-readme-stats.vercel.app/api?username=sh-dian&show_icons=true&theme=tokyonight">
