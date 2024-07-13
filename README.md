@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=160&color=6:833ab4,100:fd1d1d&text=Sharifah%20Lydieanna&desc=Full-stack%20Web%20Developer&fontColor=ffffff&descAlign=27&descAlignY=15&fontAlignY=55)
 
 <h3 align="left">Hi 👋, I'm Dian</h3>
-<image align= "center" height = "200" width = "1000" src= "https://github-readme-stats.vercel.app/api?username=sh-dian&show_icons=true&theme=tokyonight">
 
 ### 🛠 Tech Stack
 
