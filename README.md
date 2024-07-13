@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dian</h1>
 <image align= "center" height = "200" width = "1000" src= "https://github-readme-stats.vercel.app/api?username=sh-dian&show_icons=true&theme=tokyonight">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sh-dian&label=Profile%20views&color=0e75b6&style=flat" alt="sh-dian" /> </p>
-https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&section=header&textBg=false
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&section=header&textBg=false)
+
   <img align="right" alt="Coding" width = "400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 <h3 align="left">Bio:</h3>
   <p align="left"><b>Name:</b><br>Sharifah Lydieanna Syed Shamsuddin<br><b>Degree:</b> <br>Bachelor in Computer Science (Software Engineering) with Honor<br><b>Interest:</b> <br>App/Web Development , Programming , Software Engineering</p>  
