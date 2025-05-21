@@ -9,7 +9,6 @@
   <li><b>Currently working as</b>:
       <ul>
         <li>Software Developer 1 at Vimigo Technologies</li>
-        <li>Part Time - Fullstack Laravel Developer at Mahiran Digital Sdn. Bhd.</li>
       </ul>
   </li>
 </ul>
