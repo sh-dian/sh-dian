@@ -8,7 +8,7 @@
   <li><b>Interest:</b> App/Web Development , Programming , Software Engineering</li>
   <li><b>Currently working as</b>:
       <ul>
-        <li>Intern - Backend Developer at Vimigo Technologies</li>
+        <li>Software Developer 1 at Vimigo Technologies</li>
         <li>Part Time - Fullstack Laravel Developer at Mahiran Digital Sdn. Bhd.</li>
       </ul>
   </li>
