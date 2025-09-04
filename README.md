@@ -8,7 +8,8 @@
   <li><b>Interest:</b> App/Web Development , Programming , Software Engineering</li>
   <li><b>Currently working as</b>:
       <ul>
-        <li>Software Developer 1 at Vimigo Technologies</li>
+        <li>Fullstack Software Engineer at Agmo Artisan Sdn Bhd</li>
+        <li>Freelance Software Developer at Vimigo Technologies</li>
       </ul>
   </li>
 </ul>
