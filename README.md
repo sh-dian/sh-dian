@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=160&color=6:833ab4,100:fd1d1d&text=Sharifah%20Lydieanna&desc=Full-stack%20Software%Engineer&fontColor=ffffff&descAlign=27&descAlignY=15&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=venom&height=160&color=6:833ab4,100:fd1d1d&text=Sharifah%20Lydieanna&desc=Full-stack%20Software%20Engineer&fontColor=ffffff&descAlign=27&descAlignY=15&fontAlignY=55)
 
 <h3 align="left">Hi 👋, I'm Dian</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=sh-dian&label=Profile%20views&color=0e75b6&style=flat" alt="sh-dian" /> </p>
